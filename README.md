@@ -1,6 +1,3 @@
-# kety?
-Que te importa.. =V
-
 Links a revisar:
 
 JavaScript - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/
